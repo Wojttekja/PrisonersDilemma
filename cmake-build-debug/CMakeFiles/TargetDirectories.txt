@@ -1,0 +1,3 @@
+C:/Users/Wojtek/CLionProjects/PrisonersDilemma/cmake-build-debug/CMakeFiles/PrisonersDilemma.dir
+C:/Users/Wojtek/CLionProjects/PrisonersDilemma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wojtek/CLionProjects/PrisonersDilemma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
